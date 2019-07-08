@@ -16,9 +16,11 @@ namespace CSharpAssignment
             Console.WriteLine(Course);
             Console.ReadLine();
 
-            string PageNumber = "What page number are you on?";
-            Console.WriteLine(PageNumber);
+            Console.WriteLine("What page number are you on?");
+            string PageNumber = Console.ReadLine();
+            int Page = Convert.ToInt32(PageNumber);
             Console.ReadLine();
+            
 
             Console.WriteLine("Do you need help with anything? Please answer \"true\" or \"false\"");
             string help = Console.ReadLine();
@@ -33,8 +35,9 @@ namespace CSharpAssignment
             Console.WriteLine(feedback);
             Console.ReadLine();
 
-            string hours = "How many hours did you study today?";
-            Console.WriteLine(hours);
+            Console.WriteLine("How many hours did you study today?");
+            string Study = Console.ReadLine();
+            int hoursStudy = Convert.ToInt32(Study);
             Console.ReadLine();
 
             string thankYou = "Thank you for your answers. An instructor will respond to this shortly. Have a great day!";
