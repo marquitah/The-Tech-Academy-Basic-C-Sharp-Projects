@@ -1,0 +1,7 @@
+C:\Users\Marquita\PROJECTS\Tech-Academy-Projects\CSharpAssignment\CSharpAssignment\bin\Debug\CSharpAssignment.exe.config
+C:\Users\Marquita\PROJECTS\Tech-Academy-Projects\CSharpAssignment\CSharpAssignment\bin\Debug\CSharpAssignment.exe
+C:\Users\Marquita\PROJECTS\Tech-Academy-Projects\CSharpAssignment\CSharpAssignment\bin\Debug\CSharpAssignment.pdb
+C:\Users\Marquita\PROJECTS\Tech-Academy-Projects\CSharpAssignment\CSharpAssignment\obj\Debug\CSharpAssignment.csprojAssemblyReference.cache
+C:\Users\Marquita\PROJECTS\Tech-Academy-Projects\CSharpAssignment\CSharpAssignment\obj\Debug\CSharpAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Marquita\PROJECTS\Tech-Academy-Projects\CSharpAssignment\CSharpAssignment\obj\Debug\CSharpAssignment.exe
+C:\Users\Marquita\PROJECTS\Tech-Academy-Projects\CSharpAssignment\CSharpAssignment\obj\Debug\CSharpAssignment.pdb
