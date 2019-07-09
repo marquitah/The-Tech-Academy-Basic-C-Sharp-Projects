@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29025.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserInputDrill", "UserInputDrill\UserInputDrill.csproj", "{BCB4C2B3-9E3A-44BC-9C1E-0014F32CEC32}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCB4C2B3-9E3A-44BC-9C1E-0014F32CEC32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCB4C2B3-9E3A-44BC-9C1E-0014F32CEC32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCB4C2B3-9E3A-44BC-9C1E-0014F32CEC32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCB4C2B3-9E3A-44BC-9C1E-0014F32CEC32}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {53A3132C-E8FD-4D49-83BE-EA56429261FA}
+	EndGlobalSection
+EndGlobal

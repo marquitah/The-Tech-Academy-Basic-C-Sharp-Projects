@@ -1,0 +1,7 @@
+C:\Users\Marquita\PROJECTS\Tech-Academy-Projects\UserInputDrill\UserInputDrill\obj\Debug\UserInputDrill.csprojAssemblyReference.cache
+C:\Users\Marquita\PROJECTS\Tech-Academy-Projects\UserInputDrill\UserInputDrill\obj\Debug\UserInputDrill.csproj.CoreCompileInputs.cache
+C:\Users\Marquita\PROJECTS\Tech-Academy-Projects\UserInputDrill\UserInputDrill\bin\Debug\UserInputDrill.exe.config
+C:\Users\Marquita\PROJECTS\Tech-Academy-Projects\UserInputDrill\UserInputDrill\bin\Debug\UserInputDrill.exe
+C:\Users\Marquita\PROJECTS\Tech-Academy-Projects\UserInputDrill\UserInputDrill\bin\Debug\UserInputDrill.pdb
+C:\Users\Marquita\PROJECTS\Tech-Academy-Projects\UserInputDrill\UserInputDrill\obj\Debug\UserInputDrill.exe
+C:\Users\Marquita\PROJECTS\Tech-Academy-Projects\UserInputDrill\UserInputDrill\obj\Debug\UserInputDrill.pdb
