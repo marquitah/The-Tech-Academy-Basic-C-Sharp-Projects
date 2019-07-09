@@ -1,0 +1,7 @@
+C:\Users\Marquita\PROJECTS\Tech-Academy-Projects\BooleanLogicExamples\BooleanLogicExamples\bin\Debug\BooleanLogicExamples.exe.config
+C:\Users\Marquita\PROJECTS\Tech-Academy-Projects\BooleanLogicExamples\BooleanLogicExamples\bin\Debug\BooleanLogicExamples.exe
+C:\Users\Marquita\PROJECTS\Tech-Academy-Projects\BooleanLogicExamples\BooleanLogicExamples\bin\Debug\BooleanLogicExamples.pdb
+C:\Users\Marquita\PROJECTS\Tech-Academy-Projects\BooleanLogicExamples\BooleanLogicExamples\obj\Debug\BooleanLogicExamples.csprojAssemblyReference.cache
+C:\Users\Marquita\PROJECTS\Tech-Academy-Projects\BooleanLogicExamples\BooleanLogicExamples\obj\Debug\BooleanLogicExamples.csproj.CoreCompileInputs.cache
+C:\Users\Marquita\PROJECTS\Tech-Academy-Projects\BooleanLogicExamples\BooleanLogicExamples\obj\Debug\BooleanLogicExamples.exe
+C:\Users\Marquita\PROJECTS\Tech-Academy-Projects\BooleanLogicExamples\BooleanLogicExamples\obj\Debug\BooleanLogicExamples.pdb
