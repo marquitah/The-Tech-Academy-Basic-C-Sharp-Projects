@@ -1,0 +1,7 @@
+C:\Users\Marquita\PROJECTS\Tech-Academy-Projects\ShippingQuoteBranchingExercise\ShippingQuoteBranchingExercise\obj\Debug\ShippingQuoteBranchingExercise.csprojAssemblyReference.cache
+C:\Users\Marquita\PROJECTS\Tech-Academy-Projects\ShippingQuoteBranchingExercise\ShippingQuoteBranchingExercise\obj\Debug\ShippingQuoteBranchingExercise.csproj.CoreCompileInputs.cache
+C:\Users\Marquita\PROJECTS\Tech-Academy-Projects\ShippingQuoteBranchingExercise\ShippingQuoteBranchingExercise\bin\Debug\ShippingQuoteBranchingExercise.exe.config
+C:\Users\Marquita\PROJECTS\Tech-Academy-Projects\ShippingQuoteBranchingExercise\ShippingQuoteBranchingExercise\bin\Debug\ShippingQuoteBranchingExercise.exe
+C:\Users\Marquita\PROJECTS\Tech-Academy-Projects\ShippingQuoteBranchingExercise\ShippingQuoteBranchingExercise\bin\Debug\ShippingQuoteBranchingExercise.pdb
+C:\Users\Marquita\PROJECTS\Tech-Academy-Projects\ShippingQuoteBranchingExercise\ShippingQuoteBranchingExercise\obj\Debug\ShippingQuoteBranchingExercise.exe
+C:\Users\Marquita\PROJECTS\Tech-Academy-Projects\ShippingQuoteBranchingExercise\ShippingQuoteBranchingExercise\obj\Debug\ShippingQuoteBranchingExercise.pdb
