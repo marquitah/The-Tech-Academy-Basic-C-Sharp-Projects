@@ -1,0 +1,7 @@
+C:\Users\Marquita\PROJECTS\Tech-Academy-Projects\BooleanWhileDoWhileExercise\BooleanWhileDoWhileExercise\obj\Debug\BooleanWhileDoWhileExercise.csprojAssemblyReference.cache
+C:\Users\Marquita\PROJECTS\Tech-Academy-Projects\BooleanWhileDoWhileExercise\BooleanWhileDoWhileExercise\obj\Debug\BooleanWhileDoWhileExercise.csproj.CoreCompileInputs.cache
+C:\Users\Marquita\PROJECTS\Tech-Academy-Projects\BooleanWhileDoWhileExercise\BooleanWhileDoWhileExercise\bin\Debug\BooleanWhileDoWhileExercise.exe.config
+C:\Users\Marquita\PROJECTS\Tech-Academy-Projects\BooleanWhileDoWhileExercise\BooleanWhileDoWhileExercise\bin\Debug\BooleanWhileDoWhileExercise.exe
+C:\Users\Marquita\PROJECTS\Tech-Academy-Projects\BooleanWhileDoWhileExercise\BooleanWhileDoWhileExercise\bin\Debug\BooleanWhileDoWhileExercise.pdb
+C:\Users\Marquita\PROJECTS\Tech-Academy-Projects\BooleanWhileDoWhileExercise\BooleanWhileDoWhileExercise\obj\Debug\BooleanWhileDoWhileExercise.exe
+C:\Users\Marquita\PROJECTS\Tech-Academy-Projects\BooleanWhileDoWhileExercise\BooleanWhileDoWhileExercise\obj\Debug\BooleanWhileDoWhileExercise.pdb
