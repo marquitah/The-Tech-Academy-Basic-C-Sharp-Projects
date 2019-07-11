@@ -1,0 +1,7 @@
+C:\Users\Marquita\PROJECTS\Tech-Academy-Projects\StringBuilderExercise\StringBuilderExercise\bin\Debug\StringBuilderExercise.exe.config
+C:\Users\Marquita\PROJECTS\Tech-Academy-Projects\StringBuilderExercise\StringBuilderExercise\bin\Debug\StringBuilderExercise.exe
+C:\Users\Marquita\PROJECTS\Tech-Academy-Projects\StringBuilderExercise\StringBuilderExercise\bin\Debug\StringBuilderExercise.pdb
+C:\Users\Marquita\PROJECTS\Tech-Academy-Projects\StringBuilderExercise\StringBuilderExercise\obj\Debug\StringBuilderExercise.csprojAssemblyReference.cache
+C:\Users\Marquita\PROJECTS\Tech-Academy-Projects\StringBuilderExercise\StringBuilderExercise\obj\Debug\StringBuilderExercise.csproj.CoreCompileInputs.cache
+C:\Users\Marquita\PROJECTS\Tech-Academy-Projects\StringBuilderExercise\StringBuilderExercise\obj\Debug\StringBuilderExercise.exe
+C:\Users\Marquita\PROJECTS\Tech-Academy-Projects\StringBuilderExercise\StringBuilderExercise\obj\Debug\StringBuilderExercise.pdb
