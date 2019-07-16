@@ -1,0 +1,7 @@
+C:\Users\Marquita\PROJECTS\Tech-Academy-Projects\ExceptionHandlingDrill\ExceptionHandlingDrill\bin\Debug\ExceptionHandlingDrill.exe.config
+C:\Users\Marquita\PROJECTS\Tech-Academy-Projects\ExceptionHandlingDrill\ExceptionHandlingDrill\bin\Debug\ExceptionHandlingDrill.exe
+C:\Users\Marquita\PROJECTS\Tech-Academy-Projects\ExceptionHandlingDrill\ExceptionHandlingDrill\bin\Debug\ExceptionHandlingDrill.pdb
+C:\Users\Marquita\PROJECTS\Tech-Academy-Projects\ExceptionHandlingDrill\ExceptionHandlingDrill\obj\Debug\ExceptionHandlingDrill.csprojAssemblyReference.cache
+C:\Users\Marquita\PROJECTS\Tech-Academy-Projects\ExceptionHandlingDrill\ExceptionHandlingDrill\obj\Debug\ExceptionHandlingDrill.csproj.CoreCompileInputs.cache
+C:\Users\Marquita\PROJECTS\Tech-Academy-Projects\ExceptionHandlingDrill\ExceptionHandlingDrill\obj\Debug\ExceptionHandlingDrill.exe
+C:\Users\Marquita\PROJECTS\Tech-Academy-Projects\ExceptionHandlingDrill\ExceptionHandlingDrill\obj\Debug\ExceptionHandlingDrill.pdb
