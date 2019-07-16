@@ -1,0 +1,7 @@
+C:\Users\Marquita\PROJECTS\Tech-Academy-Projects\IterationDrill2\IterationDrill2\obj\Debug\IterationDrill2.csprojAssemblyReference.cache
+C:\Users\Marquita\PROJECTS\Tech-Academy-Projects\IterationDrill2\IterationDrill2\obj\Debug\IterationDrill2.csproj.CoreCompileInputs.cache
+C:\Users\Marquita\PROJECTS\Tech-Academy-Projects\IterationDrill2\IterationDrill2\bin\Debug\IterationDrill2.exe.config
+C:\Users\Marquita\PROJECTS\Tech-Academy-Projects\IterationDrill2\IterationDrill2\bin\Debug\IterationDrill2.exe
+C:\Users\Marquita\PROJECTS\Tech-Academy-Projects\IterationDrill2\IterationDrill2\bin\Debug\IterationDrill2.pdb
+C:\Users\Marquita\PROJECTS\Tech-Academy-Projects\IterationDrill2\IterationDrill2\obj\Debug\IterationDrill2.exe
+C:\Users\Marquita\PROJECTS\Tech-Academy-Projects\IterationDrill2\IterationDrill2\obj\Debug\IterationDrill2.pdb
