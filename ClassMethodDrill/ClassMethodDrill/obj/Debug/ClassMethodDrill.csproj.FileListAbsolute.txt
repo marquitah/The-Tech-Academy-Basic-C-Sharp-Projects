@@ -1,0 +1,7 @@
+C:\Users\Marquita\PROJECTS\Tech-Academy-Projects\ClassMethodDrill\ClassMethodDrill\obj\Debug\ClassMethodDrill.csprojAssemblyReference.cache
+C:\Users\Marquita\PROJECTS\Tech-Academy-Projects\ClassMethodDrill\ClassMethodDrill\obj\Debug\ClassMethodDrill.csproj.CoreCompileInputs.cache
+C:\Users\Marquita\PROJECTS\Tech-Academy-Projects\ClassMethodDrill\ClassMethodDrill\bin\Debug\ClassMethodDrill.exe.config
+C:\Users\Marquita\PROJECTS\Tech-Academy-Projects\ClassMethodDrill\ClassMethodDrill\bin\Debug\ClassMethodDrill.exe
+C:\Users\Marquita\PROJECTS\Tech-Academy-Projects\ClassMethodDrill\ClassMethodDrill\bin\Debug\ClassMethodDrill.pdb
+C:\Users\Marquita\PROJECTS\Tech-Academy-Projects\ClassMethodDrill\ClassMethodDrill\obj\Debug\ClassMethodDrill.exe
+C:\Users\Marquita\PROJECTS\Tech-Academy-Projects\ClassMethodDrill\ClassMethodDrill\obj\Debug\ClassMethodDrill.pdb

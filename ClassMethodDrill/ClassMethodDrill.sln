@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassMethodDrill", "ClassMethodDrill\ClassMethodDrill.csproj", "{79D9C2E8-8DC1-4783-9EBD-498DD74ACB53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79D9C2E8-8DC1-4783-9EBD-498DD74ACB53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79D9C2E8-8DC1-4783-9EBD-498DD74ACB53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79D9C2E8-8DC1-4783-9EBD-498DD74ACB53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79D9C2E8-8DC1-4783-9EBD-498DD74ACB53}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {303193A4-4A01-4B5E-BCB2-C1D2EA15EE59}
+	EndGlobalSection
+EndGlobal
