@@ -80,7 +80,7 @@ namespace ExceptionHandlingDrill
                     {
                         
                         {
-                            Console.WriteLine("The answer is " + input/newNumber + ".");
+                            Console.WriteLine("The answer is " + newNumber/input + ".");
                             Console.ReadLine();
                         }
                
@@ -97,12 +97,12 @@ namespace ExceptionHandlingDrill
                     Console.WriteLine("Please don't divide by zero.");
                     Console.ReadLine();
                 }
-                //finally
-                //{
-                //    Console.WriteLine("The program will continue..");
-                //    Console.ReadLine();
-                //}
-            
+            finally
+            {
+                Console.WriteLine("The program will continue..");
+                Console.ReadLine();
+            }
+
         }
 
     }
