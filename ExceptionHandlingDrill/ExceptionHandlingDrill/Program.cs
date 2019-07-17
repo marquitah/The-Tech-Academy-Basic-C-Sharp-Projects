@@ -63,39 +63,46 @@ namespace ExceptionHandlingDrill
             //Input: 2 0 me
             //Output: Input string was not in a correct format.
             //Output: The program will continue..
-
             try
             {
+
                 List<int> divideNumbers = new List<int>();
-                divideNumbers.Add(2);
-                divideNumbers.Add(4);
-                divideNumbers.Add(6);
-
-                Console.WriteLine("Enter a number and I will divide it by 2, 4, & 6.");
-                int input = Convert.ToInt32(Console.ReadLine());
-
-
+                    divideNumbers.Add(2);
+                    divideNumbers.Add(4);
+                    divideNumbers.Add(6);
            
-                foreach (int newNumber in divideNumbers)
-                {
-                    int output = newNumber / input;
-                    {
-                        Console.WriteLine("The answer is " + output + ".");
-                        Console.ReadLine();
-                    }
-                }
+                Console.WriteLine("Enter a number and I will divide it by 2, 4, & 6.");
+                    int input = Convert.ToInt32(Console.ReadLine());
 
-            }
-            catch (FormatException ex)
-            {
-                Console.WriteLine(ex.Message);
-                Console.ReadLine();
-            }
-            finally
-            {
-                Console.WriteLine("The program will continue..");
-                Console.ReadLine();
-            }
+
+
+                    foreach (int newNumber in divideNumbers)
+                    {
+                        
+                        {
+                            Console.WriteLine("The answer is " + input/newNumber + ".");
+                            Console.ReadLine();
+                        }
+               
+                    }
+
+                }
+                catch (FormatException ex)
+                {
+                    Console.WriteLine(ex.Message);
+                    Console.ReadLine();
+                }
+                catch (DivideByZeroException)
+                {
+                    Console.WriteLine("Please don't divide by zero.");
+                    Console.ReadLine();
+                }
+                //finally
+                //{
+                //    Console.WriteLine("The program will continue..");
+                //    Console.ReadLine();
+                //}
+            
         }
 
     }
