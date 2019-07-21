@@ -1,0 +1,7 @@
+C:\Users\Marquita\PROJECTS\Tech-Academy-Projects\AbstractDrill\AbstractDrill\bin\Debug\AbstractDrill.exe.config
+C:\Users\Marquita\PROJECTS\Tech-Academy-Projects\AbstractDrill\AbstractDrill\bin\Debug\AbstractDrill.exe
+C:\Users\Marquita\PROJECTS\Tech-Academy-Projects\AbstractDrill\AbstractDrill\bin\Debug\AbstractDrill.pdb
+C:\Users\Marquita\PROJECTS\Tech-Academy-Projects\AbstractDrill\AbstractDrill\obj\Debug\AbstractDrill.csprojAssemblyReference.cache
+C:\Users\Marquita\PROJECTS\Tech-Academy-Projects\AbstractDrill\AbstractDrill\obj\Debug\AbstractDrill.csproj.CoreCompileInputs.cache
+C:\Users\Marquita\PROJECTS\Tech-Academy-Projects\AbstractDrill\AbstractDrill\obj\Debug\AbstractDrill.exe
+C:\Users\Marquita\PROJECTS\Tech-Academy-Projects\AbstractDrill\AbstractDrill\obj\Debug\AbstractDrill.pdb
