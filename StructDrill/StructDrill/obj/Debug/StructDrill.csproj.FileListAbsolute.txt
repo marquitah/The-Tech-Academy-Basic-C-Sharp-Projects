@@ -1,0 +1,7 @@
+C:\Users\Marquita\PROJECTS\Tech-Academy-Projects\StructDrill\StructDrill\bin\Debug\StructDrill.exe.config
+C:\Users\Marquita\PROJECTS\Tech-Academy-Projects\StructDrill\StructDrill\bin\Debug\StructDrill.exe
+C:\Users\Marquita\PROJECTS\Tech-Academy-Projects\StructDrill\StructDrill\bin\Debug\StructDrill.pdb
+C:\Users\Marquita\PROJECTS\Tech-Academy-Projects\StructDrill\StructDrill\obj\Debug\StructDrill.csprojAssemblyReference.cache
+C:\Users\Marquita\PROJECTS\Tech-Academy-Projects\StructDrill\StructDrill\obj\Debug\StructDrill.csproj.CoreCompileInputs.cache
+C:\Users\Marquita\PROJECTS\Tech-Academy-Projects\StructDrill\StructDrill\obj\Debug\StructDrill.exe
+C:\Users\Marquita\PROJECTS\Tech-Academy-Projects\StructDrill\StructDrill\obj\Debug\StructDrill.pdb
