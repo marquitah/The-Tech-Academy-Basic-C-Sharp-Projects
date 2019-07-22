@@ -1,0 +1,7 @@
+C:\Users\Marquita\PROJECTS\Tech-Academy-Projects\GenericDrill\GenericDrill\obj\Debug\GenericDrill.csprojAssemblyReference.cache
+C:\Users\Marquita\PROJECTS\Tech-Academy-Projects\GenericDrill\GenericDrill\obj\Debug\GenericDrill.csproj.CoreCompileInputs.cache
+C:\Users\Marquita\PROJECTS\Tech-Academy-Projects\GenericDrill\GenericDrill\bin\Debug\GenericDrill.exe.config
+C:\Users\Marquita\PROJECTS\Tech-Academy-Projects\GenericDrill\GenericDrill\bin\Debug\GenericDrill.exe
+C:\Users\Marquita\PROJECTS\Tech-Academy-Projects\GenericDrill\GenericDrill\bin\Debug\GenericDrill.pdb
+C:\Users\Marquita\PROJECTS\Tech-Academy-Projects\GenericDrill\GenericDrill\obj\Debug\GenericDrill.exe
+C:\Users\Marquita\PROJECTS\Tech-Academy-Projects\GenericDrill\GenericDrill\obj\Debug\GenericDrill.pdb
