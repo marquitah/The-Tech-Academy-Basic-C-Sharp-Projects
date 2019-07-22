@@ -12,11 +12,11 @@ namespace InterfaceDrill
         {//3.Use polymorphism to create an object of type IQuittable and call the Quit() method on it.
          //Hint: an object can be of an interface type if it implements that specific interface.
             IQuittable quittable = new Employee();
+            quittable.Quit();
+            Console.ReadLine();
 
-            void Quit(Employee employee)
-            {
-                
-            }
         }
+        
     }
+
 }

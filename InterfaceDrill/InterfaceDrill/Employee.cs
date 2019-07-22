@@ -11,6 +11,8 @@ namespace InterfaceDrill
         public void Quit(Employee employee)
         {
             
+                
+            
         }
 
         

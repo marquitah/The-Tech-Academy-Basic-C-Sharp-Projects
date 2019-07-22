@@ -10,8 +10,6 @@ namespace InterfaceDrill
     {
         void Quit(Employee employee);
 
-        
-
-
+  
     }
 }
