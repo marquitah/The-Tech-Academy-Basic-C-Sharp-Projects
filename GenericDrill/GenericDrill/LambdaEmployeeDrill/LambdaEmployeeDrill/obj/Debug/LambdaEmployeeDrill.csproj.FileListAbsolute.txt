@@ -1,0 +1,7 @@
+C:\Users\Marquita\PROJECTS\Tech-Academy-Projects\LambdaEmployeeDrill\LambdaEmployeeDrill\bin\Debug\LambdaEmployeeDrill.exe.config
+C:\Users\Marquita\PROJECTS\Tech-Academy-Projects\LambdaEmployeeDrill\LambdaEmployeeDrill\bin\Debug\LambdaEmployeeDrill.exe
+C:\Users\Marquita\PROJECTS\Tech-Academy-Projects\LambdaEmployeeDrill\LambdaEmployeeDrill\bin\Debug\LambdaEmployeeDrill.pdb
+C:\Users\Marquita\PROJECTS\Tech-Academy-Projects\LambdaEmployeeDrill\LambdaEmployeeDrill\obj\Debug\LambdaEmployeeDrill.csprojAssemblyReference.cache
+C:\Users\Marquita\PROJECTS\Tech-Academy-Projects\LambdaEmployeeDrill\LambdaEmployeeDrill\obj\Debug\LambdaEmployeeDrill.csproj.CoreCompileInputs.cache
+C:\Users\Marquita\PROJECTS\Tech-Academy-Projects\LambdaEmployeeDrill\LambdaEmployeeDrill\obj\Debug\LambdaEmployeeDrill.exe
+C:\Users\Marquita\PROJECTS\Tech-Academy-Projects\LambdaEmployeeDrill\LambdaEmployeeDrill\obj\Debug\LambdaEmployeeDrill.pdb
