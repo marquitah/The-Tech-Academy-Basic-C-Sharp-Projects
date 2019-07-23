@@ -8,9 +8,20 @@ namespace OverloadOperatorDrill
 {
     class Employee
     {
-        public int id;
-        public string name;
+        public int Id { get; set; }
+        public string Name { get; set; }
 
+        //Overload the "==" operator so it checks if two Employee objects are equal by comparing their Id property.
+        public static bool operator ==(Employee employeeOne, Employee employeeTwo)
+        {
+            return (employeeOne.Id == employeeTwo.Id);
+        }
+        public static bool operator !=(Employee employeeOne, Employee employeeTwo)
+        {
+            return !(employeeOne.Id == employeeTwo.Id);
+        }
+        
        
     }
+   
 }
