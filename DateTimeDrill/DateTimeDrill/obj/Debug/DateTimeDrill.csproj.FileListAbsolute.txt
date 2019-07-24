@@ -1,0 +1,7 @@
+C:\Users\Marquita\PROJECTS\Tech-Academy-Projects\DateTimeDrill\DateTimeDrill\bin\Debug\DateTimeDrill.exe.config
+C:\Users\Marquita\PROJECTS\Tech-Academy-Projects\DateTimeDrill\DateTimeDrill\bin\Debug\DateTimeDrill.exe
+C:\Users\Marquita\PROJECTS\Tech-Academy-Projects\DateTimeDrill\DateTimeDrill\bin\Debug\DateTimeDrill.pdb
+C:\Users\Marquita\PROJECTS\Tech-Academy-Projects\DateTimeDrill\DateTimeDrill\obj\Debug\DateTimeDrill.csprojAssemblyReference.cache
+C:\Users\Marquita\PROJECTS\Tech-Academy-Projects\DateTimeDrill\DateTimeDrill\obj\Debug\DateTimeDrill.csproj.CoreCompileInputs.cache
+C:\Users\Marquita\PROJECTS\Tech-Academy-Projects\DateTimeDrill\DateTimeDrill\obj\Debug\DateTimeDrill.exe
+C:\Users\Marquita\PROJECTS\Tech-Academy-Projects\DateTimeDrill\DateTimeDrill\obj\Debug\DateTimeDrill.pdb
