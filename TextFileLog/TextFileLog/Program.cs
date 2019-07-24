@@ -14,10 +14,12 @@ namespace TextFileLog
             Console.WriteLine("Please enter in a number.");
             string numberEntered = Convert.ToString(Console.ReadLine());
 
-            string Text = numberEntered;
-            File.WriteAllText(@"C:\Users\Marquita\Documents\Log.txt", Text);
+            
+            File.WriteAllText(@"C:\Users\Marquita\Documents\log.txt", numberEntered);
+            string readText = File.ReadAllText(@"C:\Users\Marquita\Documents\log.txt");
 
-            Console.WriteLine("The number you entered was " + Text + ".");
+
+            Console.WriteLine("The number you entered was " + readText + ".");
             Console.ReadLine();
             
             
