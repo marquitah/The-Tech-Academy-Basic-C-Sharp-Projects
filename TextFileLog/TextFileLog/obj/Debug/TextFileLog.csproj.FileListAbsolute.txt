@@ -1,0 +1,7 @@
+C:\Users\Marquita\PROJECTS\Tech-Academy-Projects\TextFileLog\TextFileLog\bin\Debug\TextFileLog.exe.config
+C:\Users\Marquita\PROJECTS\Tech-Academy-Projects\TextFileLog\TextFileLog\bin\Debug\TextFileLog.exe
+C:\Users\Marquita\PROJECTS\Tech-Academy-Projects\TextFileLog\TextFileLog\bin\Debug\TextFileLog.pdb
+C:\Users\Marquita\PROJECTS\Tech-Academy-Projects\TextFileLog\TextFileLog\obj\Debug\TextFileLog.csprojAssemblyReference.cache
+C:\Users\Marquita\PROJECTS\Tech-Academy-Projects\TextFileLog\TextFileLog\obj\Debug\TextFileLog.csproj.CoreCompileInputs.cache
+C:\Users\Marquita\PROJECTS\Tech-Academy-Projects\TextFileLog\TextFileLog\obj\Debug\TextFileLog.exe
+C:\Users\Marquita\PROJECTS\Tech-Academy-Projects\TextFileLog\TextFileLog\obj\Debug\TextFileLog.pdb
