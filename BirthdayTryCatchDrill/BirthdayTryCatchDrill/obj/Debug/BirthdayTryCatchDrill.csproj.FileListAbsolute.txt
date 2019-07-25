@@ -1,0 +1,7 @@
+C:\Users\Marquita\PROJECTS\Tech-Academy-Projects\BirthdayTryCatchDrill\BirthdayTryCatchDrill\bin\Debug\BirthdayTryCatchDrill.exe.config
+C:\Users\Marquita\PROJECTS\Tech-Academy-Projects\BirthdayTryCatchDrill\BirthdayTryCatchDrill\bin\Debug\BirthdayTryCatchDrill.exe
+C:\Users\Marquita\PROJECTS\Tech-Academy-Projects\BirthdayTryCatchDrill\BirthdayTryCatchDrill\bin\Debug\BirthdayTryCatchDrill.pdb
+C:\Users\Marquita\PROJECTS\Tech-Academy-Projects\BirthdayTryCatchDrill\BirthdayTryCatchDrill\obj\Debug\BirthdayTryCatchDrill.csprojAssemblyReference.cache
+C:\Users\Marquita\PROJECTS\Tech-Academy-Projects\BirthdayTryCatchDrill\BirthdayTryCatchDrill\obj\Debug\BirthdayTryCatchDrill.csproj.CoreCompileInputs.cache
+C:\Users\Marquita\PROJECTS\Tech-Academy-Projects\BirthdayTryCatchDrill\BirthdayTryCatchDrill\obj\Debug\BirthdayTryCatchDrill.exe
+C:\Users\Marquita\PROJECTS\Tech-Academy-Projects\BirthdayTryCatchDrill\BirthdayTryCatchDrill\obj\Debug\BirthdayTryCatchDrill.pdb
