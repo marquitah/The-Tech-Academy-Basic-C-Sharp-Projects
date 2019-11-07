@@ -1,0 +1,7 @@
+C:\Users\Marquita\source\repos\TechnicalInterviewQuestions\TechnicalInterviewQuestions\obj\Debug\TechnicalInterviewQuestions.csprojAssemblyReference.cache
+C:\Users\Marquita\source\repos\TechnicalInterviewQuestions\TechnicalInterviewQuestions\obj\Debug\TechnicalInterviewQuestions.csproj.CoreCompileInputs.cache
+C:\Users\Marquita\source\repos\TechnicalInterviewQuestions\TechnicalInterviewQuestions\bin\Debug\TechnicalInterviewQuestions.exe.config
+C:\Users\Marquita\source\repos\TechnicalInterviewQuestions\TechnicalInterviewQuestions\bin\Debug\TechnicalInterviewQuestions.exe
+C:\Users\Marquita\source\repos\TechnicalInterviewQuestions\TechnicalInterviewQuestions\bin\Debug\TechnicalInterviewQuestions.pdb
+C:\Users\Marquita\source\repos\TechnicalInterviewQuestions\TechnicalInterviewQuestions\obj\Debug\TechnicalInterviewQuestions.exe
+C:\Users\Marquita\source\repos\TechnicalInterviewQuestions\TechnicalInterviewQuestions\obj\Debug\TechnicalInterviewQuestions.pdb
